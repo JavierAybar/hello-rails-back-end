@@ -1,5 +1,3 @@
-# frozen_string_literal: true
-
 module Api
   # Controller for handling messages in the API
   class MessagesController < ApplicationController
